@@ -1,0 +1,14 @@
+avrtarget/ClockFrequency=16000000
+avrtarget/ExtRAMSize=0
+avrtarget/ExtendedRAM=false
+avrtarget/MCUType=atmega328p
+avrtarget/UseEEPROM=false
+avrtarget/UseExtendedRAMforHeap=true
+avrtarget/de.innot.avreclipse.configuration.lib.release.1214327784.2003975312/ClockFrequency=16000000
+avrtarget/de.innot.avreclipse.configuration.lib.release.1214327784.2003975312/ExtRAMSize=0
+avrtarget/de.innot.avreclipse.configuration.lib.release.1214327784.2003975312/ExtendedRAM=false
+avrtarget/de.innot.avreclipse.configuration.lib.release.1214327784.2003975312/MCUType=atmega328p
+avrtarget/de.innot.avreclipse.configuration.lib.release.1214327784.2003975312/UseEEPROM=false
+avrtarget/de.innot.avreclipse.configuration.lib.release.1214327784.2003975312/UseExtendedRAMforHeap=true
+avrtarget/perConfig=false
+eclipse.preferences.version=1
